@@ -79,3 +79,13 @@
   address: 10.90.0.40
 - name: 314-C10
   address: 10.90.0.41
+- name: 310-2-31
+  address: 10.90.0.42
+- name: 310-2-32
+  address: 10.90.0.43
+- name: 310-2-33
+  address: 10.90.0.44
+- name: 310-2-34
+  address: 10.90.0.45
+- name: 310-2-35
+  address: 10.90.0.46
